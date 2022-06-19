@@ -1,6 +1,6 @@
 {
-	"ip":"example.server.ip",
-	"port": "25565",
+	"ip":"SMP_Entity.aternos.me",
+	"port": "11169",
 	"name": "afkbot1",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
